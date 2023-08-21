@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Shoaib Tasrif</h1>
+<h1 align="center">Hi 👋, I'm Shoaib</h1>
 <h3 align="center">Data Engineering Enthusiast | Competitive Programmer</h3>
 
 <h3 align="left">Connect with me:</h3>
