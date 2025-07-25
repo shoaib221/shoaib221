@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shoaib</h1>
 <h3 align="center"> Software Developer </h3>
-<a href="https://shoaib221.github.io/portfolio/" >My Portfolio</a>
+<a href="https://shoaib221.github.io/portfolio/" ><h3 style='text-decoration: none' >My Portfolio</h3></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shoaibtasrif326" target="blank">
