@@ -90,7 +90,7 @@
 
 <h3 align="center">Stat</h3>
 
-[![GitHub Streak](github-readme-streak-stats.herokuapp.com)](git.io)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shoaib221)](https://git.io/streak-stats)
 
 
 
