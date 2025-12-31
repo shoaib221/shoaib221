@@ -90,12 +90,7 @@
 
 <h3 align="center">Stat</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib221" 
-       alt="shoaibtasrif326" 
-       height="300" width="400" />
-</p>
-
+[![GitHub Streak](github-readme-streak-stats.herokuapp.com)](git.io)
 
 
 
