@@ -10,7 +10,7 @@
 
 
 <p  align="center" >
-  I am passionate about building cool software and solving algorithmic problems with efficiency. I am good at producing well-structured and reusable code with experience in web development & competitive programming. 
+  I am passionate about building cool software and solving algorithmic problems with efficiency. I am good at producing well-structured and reusable code with experience in web development & competitive programming. I have made web apps for tour guide, job search, scholarship search and providing caregiving. I have solved 2000+ programming problems and taken part in a number of online contests.
 </p>
 
 <h3 align="center">My Skills</h3>
