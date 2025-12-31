@@ -10,7 +10,7 @@
 
 
 <p  align="center" >
-  I am passionate about building cool software and solving algorithmic problems with efficiency. I am good at producing well-structured and reusable code.
+  I am passionate about building cool software and solving algorithmic problems with efficiency. I am good at producing well-structured and reusable code with experience in web development & competitive programming. 
 </p>
 
 <h3 align="center">My Skills</h3>
