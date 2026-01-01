@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shoaib</h1>
-<h3 align="center"> Software engineering Enthusiast </h3>
+<h3 align="center"> Software Engineering Enthusiast </h3>
 
 
 <p  align="center" >
