@@ -1,9 +1,7 @@
 
 
 <p align="center">
-  <img src="images/banner1.jpg" height="700" style="display: inline-block;" alt="Demo Image" />
-  <img src="images/banner1.jpg" height="700" style="display: inline-block;" alt="Demo Image" />
-  <img src="images/banner1.jpg" height="700" style="display: inline-block;" alt="Demo Image" />
+  <img src="/banner.jpg" width="700"  alt="Demo Image" />
 </p>
 
 
