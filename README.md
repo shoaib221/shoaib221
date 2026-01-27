@@ -1,9 +1,5 @@
 
 
-<p align="center">
-  <img src="/banner.jpg" width="700"  alt="Demo Image" />
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Shoaib</h1>
 <h3 align="center"> Software Engineering Enthusiast </h3>
