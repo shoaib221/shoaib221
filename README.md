@@ -1,6 +1,8 @@
 <div align="center">
 
-Hi I am Shoaib
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=1000&color=00ADD8&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I'm+Shoaib+%F0%9F%91%8B;Software+Developer;" alt="Typing SVG" />
 
 </div>
 
