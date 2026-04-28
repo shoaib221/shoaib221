@@ -1,12 +1,69 @@
-<p align="center">
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/></a>
+<div align="center">
+
+Hi I am Shoaib
+
+</div>
+
+<br/>
+
+## About
+
+I'm a backend developer based in Dhaka, Bangladesh, building tools for **trading and financial markets**. I enjoy designing low-latency, resilient systems where correctness matters — order flow, market data, risk, execution.
+
+- 📈 &nbsp; Building **trading tools & fintech infrastructure** — market data pipelines, execution services, backtesting engines
+- 🔭 &nbsp; Currently working with **Go** for real-time systems and **Python** for quant research
+- 🌱 &nbsp; Exploring **event-driven architectures**, **time-series databases**, and **exchange APIs**
+- 💬 &nbsp; Ask me about **Go, microservices, market data, or trading system design**
+
+<br/>
+
+## Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,c,cpp,bash&theme=dark" alt="languages" />
 </p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&theme=dark" alt="databases" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,grafana&theme=dark" alt="cloud & devops" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,prometheus,git,linux,vim&theme=dark" alt="infra & tools" />
+</p>
+
+<br/>
+
+## Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=diptomondal007&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=00ADD8&icon_color=00ADD8" alt="stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diptomondal007&layout=compact&theme=transparent&hide_border=true&title_color=00ADD8&langs_count=6" alt="top languages" />
+</p>
+
+<br/>
+
+## Connect
+
+<p>
+  <a href="https://linkedin.com/in/dipto-mondal-807003181">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://dev.to/diptomondal007">
+    <img src="https://img.shields.io/badge/dev.to-black?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@diptos">
+    <img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <sub>Thanks for stopping by ✨</sub>
+</div>
