@@ -52,11 +52,6 @@ I'm a software developer based in Bangladesh
   <a href="https://linkedin.com/in/shoaib221">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://dev.to/diptomondal007">
-    <img src="https://img.shields.io/badge/dev.to-black?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-
 </p>
 
 <br/>
